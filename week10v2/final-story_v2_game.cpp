@@ -1,6 +1,6 @@
 /*
  * Interactive Story Game - [Echoes of the Holy Sword]
- * Author: [Marcelo Sotelo]
+ * Author: [Marcelo Sotelo-Navarro]
  * Date: [06/12/2026]
  *
  * ==== Project Features ====
