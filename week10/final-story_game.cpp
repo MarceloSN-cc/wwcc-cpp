@@ -1,7 +1,7 @@
 /*
  * Interactive Story Game - [Echoes of the Holy Sword]
- * Author: [Your Name]
- * Date: [Submission Date]
+ * Author: [Marcelo Sotelo]
+ * Date: [06/12/2026]
  *
  * ==== Project Features ====
  * Variables (3+ types): In GAMEFUNCTIONS_H lines: 7, 8 , 9 and 10. And in GameVariables.h line: 17, 18, 19, and 20.
